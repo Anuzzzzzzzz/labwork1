@@ -1,6 +1,6 @@
 for i in range(3):
-    username = input("Enter username: ")
-    password = input("Enter password: ")
+    username = input("Enter username:")
+    password = input("Enter password:")
 
     if username == 'jyff' and password == 'vinsmoke':
         print("Logged in Successfully")
